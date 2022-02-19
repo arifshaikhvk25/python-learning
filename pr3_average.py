@@ -19,3 +19,5 @@ g = int(input("Enter number:\n"))
 h = int(input("Enter number:\n"))
 average = (g+h)/5
 print("The average of g and h is",average)
+
+## hello Mohan
