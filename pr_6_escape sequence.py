@@ -14,21 +14,4 @@ mail = mail.replace("date",date)
 
 print(mail)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Day 6
