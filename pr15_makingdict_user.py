@@ -31,7 +31,6 @@ fav_language["Das"] = d     # keys should not be same
 
 print(fav_language)
 
-
 fav_language = {}
 
 a = input("Enter your favourite language Mohan : \n")
