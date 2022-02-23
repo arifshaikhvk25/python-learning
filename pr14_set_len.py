@@ -1,4 +1,5 @@
 # lenght of set
+
 # set contain str int floating numbers
 
 a = {2, 2.0, "2"}  # len of set is 2 
