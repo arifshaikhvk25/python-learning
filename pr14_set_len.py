@@ -1,4 +1,4 @@
-# lenght of set
+# lenght of a set
 
 # set contain str int floating numbers
 
