@@ -23,6 +23,7 @@ if(spam):
 else :
     print("this is not a spam")
 
+# check list in names if its present in list print yes name is in list
 
 names = ["Muhammad", "Mohan", "Das", "Virat", "jeff",] # list names are in uppercase to check the present name in list
 name = input("Enter name to check ")
@@ -64,6 +65,7 @@ else:
     print("THANK YOU")
 
 # finding the given user containe less than 10 character or not
+
 user_name = input("Enter your name:\n")
 
 if len(user_name) < 10:
