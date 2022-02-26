@@ -43,7 +43,7 @@ else:
     print(f"{b2} is greatest")
     
 
-# find out wheather the post is talkng about "Google " or not
+# find out wheather the post is talkng about "Death " or not
 
 post = '''
 "I just hope my 
@@ -70,11 +70,11 @@ else:
     print("This post is not talking about the death")
 
 
-# find out wheather the post is talkng about "Google " or not
+# find out wheather the post is talkng about "Death " or not
 
 post = '''
 "I just hope my 
-DeAth
+Death
 makes more cents..
 than my life." 
 '''
