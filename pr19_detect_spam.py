@@ -64,7 +64,7 @@ elif input == "watch and earn":
 else:
     print("THANK YOU")
 
-# finding the given user containe less than 10 character or not
+# finding the given user contain less than 10 character or not
 
 user_name = input("Enter your name:\n")
 
